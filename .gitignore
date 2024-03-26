@@ -1,0 +1,14 @@
+**/catboost_info/**/*
+**/__pycache__/**/*
+.Rproj.user
+data/.Rhistory
+data/data.Rproj
+*.csv
+*.log
+*.out
+model_*
+*.pickle
+*.xlsx
+*.json
+old/
+*.Identifier

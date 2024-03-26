@@ -1,0 +1,22 @@
+<View>
+  <Text name="headline" value="$headline"/>
+  <Text name="keywords" value="$keywords"/>
+  <Image name="image" value="$image"/>
+  <Text name="summary" value="$summary_1"/>
+<!--  <Text name="link" value="$link"/>-->
+  <Choices name="reliability_class" toName="headline">
+    <Choice value="Reliable"/>
+    <Choice value="Mixed"/>
+    <Choice value="Unreliable"/>
+  </Choices>
+    <Choices name="political_bias_class" toName="headline">
+    <Choice value="Left Leaning"/>
+    <Choice value="Centrist"/>
+    <Choice value="Right Leaning"/>
+  </Choices>
+</View>
+
+
+Misinformation Source Evaluation
+
+Evaluating articles from misinformation sources as discovered through SEO networks sampling.
