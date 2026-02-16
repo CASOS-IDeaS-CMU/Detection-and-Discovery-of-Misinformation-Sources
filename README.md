@@ -1,5 +1,8 @@
 # Detection and Discovery of Misinformation Sources using Attributed Webgraphs  
 
+### Interactive News Webgraph
+To explore the webgraph related to these news sites, checkout our [interactive webgraph exploration tool](https://netneighbor.petercarragher.com/high-profile-news-network) built ontop of the CommonCrawl dataset.
+
 ### Introduction
 These scripts can be used to train classifiers using the [NewsSEO dataset](https://kilthub.cmu.edu/articles/dataset/Dataset_for_Detection_and_Discovery_of_Misinformation_Sources_using_Attributed_Webgraphs_/25174193/1) and is based on the research paper "Detection and Discovery of Misinformation Sources using Attributed Webgraphs" [[PDF](https://arxiv.org/pdf/2401.02379.pdf)]. If you use, extend or build upon this project, please cite the following paper (upcoming at ICWSM 2024):
 ```
